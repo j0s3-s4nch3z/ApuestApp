@@ -1,7 +1,7 @@
 cl\apuesta\config\AppConfig.class
 cl\apuesta\controller\AppController.class
+cl\apuesta\controller\usuario\UsuarioController.class
 cl\apuesta\entity\Usuario.class
-cl\apuesta\dao\impl\UsuarioDaoImpl.class
+cl\apuesta\dao\EntityDao.class
 cl\apuesta\config\AppInitializer.class
-cl\apuesta\controller\UsuarioController.class
-cl\apuesta\dao\UsuarioDao.class
+cl\apuesta\dao\impl\UsuarioDao.class

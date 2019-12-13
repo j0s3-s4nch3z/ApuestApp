@@ -1,7 +1,7 @@
 C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\entity\Usuario.java
-C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\dao\UsuarioDao.java
-C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\controller\UsuarioController.java
+C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\controller\usuario\UsuarioController.java
+C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\dao\EntityDao.java
 C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\config\AppConfig.java
+C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\dao\impl\UsuarioDao.java
 C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\controller\AppController.java
 C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\config\AppInitializer.java
-C:\Users\elsan\Documents\Proyectos\APUESTAS\ApuestApp\src\main\java\cl\apuesta\dao\impl\UsuarioDaoImpl.java
