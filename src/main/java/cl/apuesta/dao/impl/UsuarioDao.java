@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package cl.apuesta.dao.impl;
 
 import cl.apuesta.dao.EntityDao;
@@ -14,9 +9,7 @@ import javax.persistence.Persistence;
 import javax.persistence.TypedQuery;
 import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;
-import javax.persistence.criteria.ParameterExpression;
 import javax.persistence.criteria.Root;
-import org.eclipse.persistence.internal.jpa.EJBQueryImpl;
 import org.springframework.stereotype.Repository;
 
 @Repository
@@ -29,7 +22,6 @@ public class UsuarioDao implements EntityDao<Usuario> {
         this.entityManagerFactory = Persistence.createEntityManagerFactory("pu");
 	this.entityManager = entityManagerFactory.createEntityManager();
         this.entityManager = this.entityManagerFactory.createEntityManager();
-
     }
 
     @Override
